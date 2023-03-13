@@ -1,0 +1,4 @@
+	-- items
+	['dynamite']		= {['name'] = 'dynamite',			['label'] = 'Dynamite',			['weight'] = 100,	['type'] = 'item',	['image'] = 'dynamite.png',			['unique'] = false,		['useable'] = true,		['shouldClose'] = true,	['combinable'] = nil,	['level'] = 0,	['description'] = 'for blowing stuff up'},
+	['goldbar']			= {['name'] = 'goldbar',			['label'] = 'Gold Bar',			['weight'] = 500,	['type'] = 'item',	['image'] = 'goldbar.png',			['unique'] = false,		['useable'] = true,		['shouldClose'] = true,	['combinable'] = nil,	['level'] = 0,	['description'] = 'solid gold bar'},
+	['lockpick']		= {['name'] = 'lockpick',			['label'] = 'Lockpick',			['weight'] = 100,	['type'] = 'item',	['image'] = 'lockpick.png',			['unique'] = false,		['useable'] = true,		['shouldClose'] = true,	['combinable'] = nil,	['level'] = 0,	['description'] = 'for picking locks'},
